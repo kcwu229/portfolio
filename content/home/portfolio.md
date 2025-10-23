@@ -28,9 +28,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Web Application
+    - name: Web App
       tag: Web
-    - name: Mobile Application
+    - name: Mobile App
       tag: Mobile
 
 design:
