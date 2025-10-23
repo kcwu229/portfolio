@@ -30,14 +30,17 @@ experience:
     date_start: '2016-09-01'
     date_end: '2020-08-31'
     description: |2-
-
+      Completed a comprehensive study in Psychology, focusing on mental health and social behaviors.
+      
   - title: Junior Data Engineering Programme
     company: Generation Hong Kong
-    company_url: 'https://en.hongkong.generation.org/?gad_source=1&gad_campaignid=22431345017&gbraid=0AAAAADCH7KUFzxfMkIUe8RK58G9CQWjp6&gclid=CjwKCAjwpOfHBhAxEiwAm1SwEiXk89bwXSt8zEhny9Ms1qSTYgzjzrtmQJm7PeNXObpNnwf6TghrbRoC3E0QAvD_BwE'
+    company_url: 'https://en.hongkong.generation.org/'
     company_logo: org-ghk
     location: Hong Kong
     date_start: '2021-09-01'
     date_end: '2021-11-30'
+    description: |2-
+      Gained practical skills in data engineering, focusing on data analysis and software development.
    
   - title: Bachelor Of Computing (Part Time)
     company: The Hong Kong Metropolitan University
@@ -47,6 +50,7 @@ experience:
     date_start: '2025-09-01'
     date_end: '2028-08-31'
     description: |2-
+      Pursuing a part-time degree to enhance my skills in computing and technology.
 
 design:
   columns: '1'
