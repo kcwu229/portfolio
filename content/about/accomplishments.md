@@ -34,7 +34,7 @@ item:
   - certificate_url: 'https://learn.microsoft.com/api/credentials/share/zh-hk/SamWuKaCheong-6948/ABA2B0E3AACFA965?sharingId=15EA9F39E6BF8FB4'
     date_end: '2026-08-09'
     date_start: '2025-08-09'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    description: ''
     organization: microsoft
     organization_url: 'https://www.microsoft.com/zh-hk'
     title: Azure Fundamentals
