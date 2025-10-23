@@ -29,8 +29,6 @@ experience:
     location: Hong Kong
     date_start: '2016-09-01'
     date_end: '2020-08-31'
-    description: |2-
-      Completed a comprehensive study in Psychology, focusing on mental health and social behaviors.
       
   - title: Junior Data Engineering Programme
     company: Generation Hong Kong
@@ -39,9 +37,7 @@ experience:
     location: Hong Kong
     date_start: '2021-09-01'
     date_end: '2021-11-30'
-    description: |2-
-      Gained practical skills in data engineering, focusing on data analysis and software development.
-   
+    
   - title: Bachelor Of Computing (Part Time)
     company: The Hong Kong Metropolitan University
     company_url: 'https://www.hkmu.edu.hk/'
@@ -49,9 +45,7 @@ experience:
     location: Hong Kong
     date_start: '2025-09-01'
     date_end: '2028-08-31'
-    description: |2-
-      Pursuing a part-time degree to enhance my skills in computing and technology.
-
+    
 design:
   columns: '1'
 ---
