@@ -23,4 +23,4 @@ author: admin
 Currently, I am expanding my expertise by learning about cloud technologies and preparing for certification examinations. I am eager to leverage my skills and knowledge to make a positive impact in the tech industry.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé](/about/) and portfolio below 😍
+Check out my [resume](/about/) and portfolio below
