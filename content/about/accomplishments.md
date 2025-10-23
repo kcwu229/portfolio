@@ -27,7 +27,7 @@ item:
     date_end: '2026-07-22'
     date_start: '2025-07-22'
     description: ''
-    organization: Microsoft
+    organization: coursera
     organization_url: 'https://www.microsoft.com/zh-hk'
     title: Azure AI Fundamentals
     url: ''
@@ -40,8 +40,8 @@ item:
     title: Azure Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_end: '2028-09-30'
+    date_start: '2025-09-30'
     description: ''
     organization: Amazon Web Services (AWS)
     organization_url: 'https://aws.amazon.com/tw/'
