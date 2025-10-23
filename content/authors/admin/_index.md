@@ -10,11 +10,12 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💪️
 
 #interests:
 #- Artificial Intelligence
 #- Programming
+#- Sports
 
 #education:
 #  courses:
