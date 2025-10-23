@@ -1,7 +1,10 @@
 ---
 title: Music Player App
 summary: 
-  Developed a cross-platform music player using React Native, Node.js, and MongoDB. Designed intuitive navigation for enhanced user engagement. Using github Action to set scheduler on fetching data to database
+  #React Native - frontend
+  #Node.js - backend
+  #MongoDB - storing data
+  #GitHub Actions - scheduled data fetching.
 tags:
   - Mobile
 date: 2025-01-01
