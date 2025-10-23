@@ -27,7 +27,7 @@ item:
     date_end: '2026-07-22'
     date_start: '2025-07-22'
     description: ''
-    organization: cert-microsoft
+    organization: Microsoft
     organization_url: 'https://www.microsoft.com/zh-hk'
     title: Azure AI Fundamentals
     url: ''
@@ -35,7 +35,7 @@ item:
     date_end: '2026-08-09'
     date_start: '2025-08-09'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: cert-microsoft
+    organization: Microsoft
     organization_url: 'https://www.microsoft.com/zh-hk'
     title: Azure Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
@@ -43,7 +43,7 @@ item:
     date_end: '2028-09-30'
     date_start: '2025-09-30'
     description: ''
-    organization: Amazon Web Services (AWS)
+    organization: AWS
     organization_url: 'https://aws.amazon.com/tw/'
     title: 'AWS Certified Solution Architect - Associate'
     url: ''
