@@ -37,7 +37,7 @@ experience:
     company_logo: org-ghk
     location: Hong Kong
     date_start: '2021-09-01'
-    date_end: '2021-11-30'  # Corrected from '11-31' to '11-30'
+    date_end: '2021-11-30'
    
   - title: Bachelor Of Computing (Part Time)
     company: The Hong Kong Metropolitan University
