@@ -27,7 +27,7 @@ item:
     date_end: '2026-07-22'
     date_start: '2025-07-22'
     description: ''
-    organization: coursera
+    organization: cert-microsoft
     organization_url: 'https://www.microsoft.com/zh-hk'
     title: Azure AI Fundamentals
     url: ''
@@ -35,7 +35,7 @@ item:
     date_end: '2026-08-09'
     date_start: '2025-08-09'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: Microsoft
+    organization: cert-microsoft
     organization_url: 'https://www.microsoft.com/zh-hk'
     title: Azure Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
