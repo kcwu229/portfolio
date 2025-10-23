@@ -51,7 +51,7 @@ social:
 #email: ""
 ---
 
-I am a motivated programmer passionate about software development, with skills in Java, Python, and JavaScript. My background in psychology, combined with my ongoing degree in computing, provides me with a unique perspective on technology and its impact on users.
+I am a motivated programmer passionate about software development, with skills in Java, Python, and JavaScript. My background in psychology, combined with my recent pursuit of a degree in computing, provides me with a unique perspective on technology and its impact on users.
 
 Currently, I am expanding my expertise by learning about cloud technologies and preparing for certification examinations. I am eager to leverage my skills and knowledge to make a positive impact in the tech industry.
 
