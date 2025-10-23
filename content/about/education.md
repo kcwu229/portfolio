@@ -30,13 +30,13 @@ experience:
     date_start: '2016-09-01'
     date_end: '2020-08-31'
 
- - title: Junior Data Engineering Programme
+  - title: Junior Data Engineering Programme
     company: Generation Hong Kong
     company_url: 'https://en.hongkong.generation.org/?gad_source=1&gad_campaignid=22431345017&gbraid=0AAAAADCH7KUFzxfMkIUe8RK58G9CQWjp6&gclid=CjwKCAjwpOfHBhAxEiwAm1SwEiXk89bwXSt8zEhny9Ms1qSTYgzjzrtmQJm7PeNXObpNnwf6TghrbRoC3E0QAvD_BwE'
     company_logo: org-ghk
     location: Hong Kong
     date_start: '2021-09-01'
-    date_end: '2021-11-31'
+    date_end: '2021-11-30'  # Corrected from '11-31' to '11-30'
    
   - title: Bachelor Of Computing (Part Time)
     company: The Hong Kong Metropolitan University
