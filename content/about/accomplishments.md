@@ -38,8 +38,8 @@ item:
     organization: microsoft
     organization_url: 'https://www.microsoft.com/zh-hk'
     title: Azure Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
+    url: ''
+  - certificate_url: 'https://www.credly.com/badges/ea3a696d-60e0-4cf1-90f1-d4e64e46757f/linked_in_profile'
     date_end: '2028-09-30'
     date_start: '2025-09-30'
     description: ''
