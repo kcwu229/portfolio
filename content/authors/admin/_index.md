@@ -34,8 +34,8 @@ status:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: linkedin
-    icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    icon_pack: linkedin
+    link: 'https://www.linkedin.com/in/sam-wu-a5372021b/' # For a direct email link, use "mailto:test@example.org".
 
   - icon: github
     icon_pack: fab
