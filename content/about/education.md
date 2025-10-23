@@ -29,6 +29,7 @@ experience:
     location: Hong Kong
     date_start: '2016-09-01'
     date_end: '2020-08-31'
+    description: |2-
 
   - title: Junior Data Engineering Programme
     company: Generation Hong Kong
@@ -45,6 +46,7 @@ experience:
     location: Hong Kong
     date_start: '2025-09-01'
     date_end: '2028-08-31'
+    description: |2-
 
 design:
   columns: '1'
