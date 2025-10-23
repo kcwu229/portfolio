@@ -1,6 +1,10 @@
 ---
 title: Black Jack Mobile App
-summary: Write about your project here...
+summary: 
+  #Flutter - frontend
+  #Stable Difussion - Graphs
+  #Live2D - Animation
+  #Suno - Sound Effect
 tags:
   - Mobile
 date: 2024-11-01
