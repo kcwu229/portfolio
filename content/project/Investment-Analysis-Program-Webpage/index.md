@@ -10,5 +10,5 @@ description: |2-
   * Live2D for animation
   * Suno AI for generating sound effect
   * Playing BlackJack (Offline Mode currently)
-external_link: 'https://github.com/kcwu229/Mobile-App-BlackJack-Game'
+external_link: 'https://github.com/kcwu229/Investment-Analysis-Program-BetaStock'
 ---
