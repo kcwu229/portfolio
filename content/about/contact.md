@@ -15,7 +15,7 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
   email: samwu229@gmail.com
   
