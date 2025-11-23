@@ -57,4 +57,4 @@ I am a motivated programmer passionate about software development, with skills i
 Currently, I am expanding my expertise by learning about cloud technologies and preparing for certification examinations. I am eager to leverage my skills and knowledge to make a positive impact in the tech industry.
 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resume as a PDF.
