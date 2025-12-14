@@ -29,9 +29,8 @@ experience:
     location: Hong Kong
     date_start: '2025-12-01'
     description: |2-
-        * Collaborated with a 8-member team with developers and engineers on the EV charging system development and service delivery to
+        * Collaborated with developers and engineers on the EV charging system development and service delivery to enhance app performance and user experience
         * Focusing on frontend development on web-based application and mobile application.
-        * Supporting the operation team and providing continuous improvement in operations and service.
         * Contributing responsive CMS system frontend pages by using Vue.js
         * Contributing responsive Charging App by using ReactNative
     
