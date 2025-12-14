@@ -32,8 +32,8 @@ experience:
         * Collaborated with a 8-member team with developers and engineers on the EV charging system development and service delivery to
         * Focusing on frontend development on web-based application and mobile application.
         * Supporting the operation team and providing continuous improvement in operations and service.
-        * Created responsive frontend pages for attendance records using Vue.js
-        * Supported Node.js backend and MySQL database
+        * Contributing responsive CMS system frontend pages by using Vue.js
+        * Contributing responsive Charging App by using ReactNative
     
   - title: Analyst Programmer
     company: Master Concept (Hong Kong) Limited
