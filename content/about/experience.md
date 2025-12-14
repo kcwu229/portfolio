@@ -28,7 +28,6 @@ experience:
     company_logo: org-x
     location: Hong Kong
     date_start: '2025-12-01'
-    date_end: 'Up to Now'
     description: |2-
         * Collaborated with a 8-member team with developers and engineers on the EV charging system development and service delivery to
         * Focusing on frontend development on web-based application and mobile application.
