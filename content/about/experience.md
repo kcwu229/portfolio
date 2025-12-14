@@ -23,6 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Analyst Programmer
+    company: I-Charge Solutions International Company Limited
+    company_url: 'https://i-charge.global/'
+    company_logo: org-x
+    location: Hong Kong
+    date_start: '2025-12-01'
+    date_end: 'Up to Now'
+    description: |2-
+        * Collaborated with a 8-member team with developers and engineers on the EV charging system development and service delivery to
+        * Focusing on frontend development on web-based application and mobile application.
+        * Supporting the operation team and providing continuous improvement in operations and service.
+        * Created responsive frontend pages for attendance records using Vue.js
+        * Supported Node.js backend and MySQL database
+    
+  - title: Analyst Programmer
     company: Master Concept (Hong Kong) Limited
     company_url: 'https://masterconcept.ai/'
     company_logo: org-x
