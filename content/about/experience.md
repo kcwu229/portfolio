@@ -25,7 +25,7 @@ experience:
   - title: Analyst Programmer
     company: I-Charge Solutions International Company Limited
     company_url: 'https://i-charge.global/'
-    company_logo: org-x
+    company_logo: org-i
     location: Hong Kong
     date_start: '2025-12-01'
     description: |2-
